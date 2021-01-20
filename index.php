@@ -46,7 +46,7 @@
           $visitingPoints = $matches[$i]["visiting_team"]["points_made"];
 
           echo "<li>"."<span class='teams'>".$homeTeam." - ".$visitingTeam."</span>"."<span class='points'>".$homePoints." - ".$visitingPoints."</span>"."</li>";
-        }
+        };
       ?>
   </ul>
   </body>
