@@ -29,10 +29,12 @@
 
         ?>
       </h1>
+
       <div v-else class="counter">
         <span>{{ counter }}</span>
       </div>
     </div>
+
     <script src="js/script.js" charset="utf-8"></script>
   </body>
 </html>

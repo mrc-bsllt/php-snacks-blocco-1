@@ -14,10 +14,10 @@ var app = new Vue(
       self.timer = setInterval(function() {
         if(self.counter >= 1) {
           self.counter--;
+          
         } else {
           self.title = true;
           clearInterval(self.timer);
-          console.log(self.counter);
         }
       }, 1000);
     }
