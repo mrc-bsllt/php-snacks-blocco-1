@@ -9,3 +9,13 @@ ul {
 li {
   padding: 10px;
 }
+span.teams {
+  display: inline-block;
+  width: 150px;
+  border-right: 2px solid black;
+  font-weight: 700;
+}
+span.points {
+  margin-left: 20px;
+  color: blue;
+}
