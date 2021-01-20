@@ -34,7 +34,7 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/style1.css">
-    <title>php blocco 1</title>
+    <title>Snack 1</title>
   </head>
   <body>
     <ul>
